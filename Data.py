@@ -8,7 +8,7 @@ class Data:
     START = """
 Hᴇʏ {}
 
-Wᴇʟᴄᴏᴍᴇ ᴛᴏ {}
+Wᴇʟᴄᴏᴍᴇ ᴛᴏ <a href="t.me/M_StickerToolsBot">Sᴛɪᴄᴋᴇʀ Tᴏ Iᴍᴀɢᴇ Bᴏᴛ</a
 
 Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ
 1) Sᴛɪᴄᴋᴇʀ ᴛᴏ Iᴍᴀɢᴇ
@@ -21,20 +21,20 @@ Bʏ <a href="https://t.me/storytym">sᴛᴍ</a>
 
     # Home Button
     home_buttons = [
-        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/StarkBots/7")],
+        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/STMbOTsUPPORTgROUP")],
         [InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="home")],
     ]
     # Rest Buttons
     buttons = [
         [
-            InlineKeyboardButton("ʙᴏᴛ ᴇᴅɪᴛᴏʀ", url="https://t.me/StarkBots/7")
+            InlineKeyboardButton("ʙᴏᴛ ᴇᴅɪᴛᴏʀ", url="https://t.me/VAMPIRE_KING_NO_1")
         ],
         [
             InlineKeyboardButton("ʜᴇʟᴘ", callback_data="help"),
             InlineKeyboardButton("ᴀʙᴏᴜᴛ", callback_data="about")
         ],
-        [InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ", url="https://t.me/StarkBots")],
-        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/StarkBotsChat")],
+        [InlineKeyboardButton("ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ", url="https://t.me/storytym")],
+        [InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ", url="https://t.me/STMbOTsUPPORTgROUP")],
     ]
 
     # Help Message
