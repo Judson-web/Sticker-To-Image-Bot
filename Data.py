@@ -8,7 +8,7 @@ class Data:
     START = """
 Hᴇʏ {}
 
-Wᴇʟᴄᴏᴍᴇ ᴛᴏ <a href="t.me/M_StickerToolsBot">Sᴛɪᴄᴋᴇʀ Tᴏ Iᴍᴀɢᴇ Bᴏᴛ</a
+Wᴇʟᴄᴏᴍᴇ ᴛᴏ {}
 
 Yᴏᴜ ᴄᴀɴ ᴜsᴇ ᴛʜɪs ʙᴏᴛ ᴛᴏ ᴄᴏɴᴠᴇʀᴛ
 1) Sᴛɪᴄᴋᴇʀ ᴛᴏ Iᴍᴀɢᴇ
